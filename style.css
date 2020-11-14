@@ -1,0 +1,20 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.canvas {
+    border: 1px solid darkslategray;
+}
+
+.form {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
